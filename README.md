@@ -1935,8 +1935,7 @@ Interested in:
 
 **GitHub Repository**
 
-https://github.com/sai-laghuvar/SERVICE_FLOW-Full-Stack-IT-Service-Incident-Management-Platform
-
+https://github.com/Bandaruvamshikrishna/Service_Flow
 ---
 
 # 📜 License
